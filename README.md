@@ -12,7 +12,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Nextjs-282C34?logo=nextdotjs&logoColor=000000" alt="nextdotjs logo" title="Nextjs" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Nextjs-282C34?logo=nextdotjs&logoColor=fffff" alt="nextdotjs logo" title="Nextjs" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
@@ -55,13 +55,13 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/nguyenvanlien1312" target="blank">
+  <a href="https://www.facebook.com/nguyenvanlien1312" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="nguyenvanlien-facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/nguyyenvanlien/" target="blank">
+  <a href="https://www.linkedin.com/in/nguyyenvanlien/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="nguyenvanlien-linkedin" />
   </a>
-  <a href="https://www.instagram.com/nguyenvanlien130102/" target="blank">
+  <a href="https://www.instagram.com/nguyenvanlien130102/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="nguyenvanlien-instagram" />
   </a>
   <a href="mailto:nguyenvanlien130102@gmail.com" target="top">
